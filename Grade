@@ -1,0 +1,17 @@
+INPUT
+  DECLARE
+  
+  var A1;
+  var A2;
+  var Grade;
+  
+  -----------------------------
+PROCESS
+  sum = A+B
+  Grade = Sum/2;
+  
+  -----------------------------
+  
+  OUTPUT 
+  
+    Print Grade;
